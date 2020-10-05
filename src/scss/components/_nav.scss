@@ -1,0 +1,15 @@
+.nav-primary {
+  display: none;
+}
+
+.nav-primary-mobile {
+  ul {
+    background: var(--color-white);
+    margin: 0;
+    padding: 10px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
